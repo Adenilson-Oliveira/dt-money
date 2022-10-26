@@ -2,7 +2,7 @@
   "transactions": [
     {
       "id": 1,
-      "decription": "Desenvolvimento de site",
+      "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
       "price": 14000,
@@ -10,10 +10,10 @@
     },
     {
       "id": 2,
-      "decription": "Hamburger",
+      "description": "Hamburger",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 50,
+      "price": 60,
       "createdAt": "2022-10-26T12:10:27.530Z"
     }
   ]
