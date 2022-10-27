@@ -23,6 +23,46 @@
       "category": "Educação",
       "price": 1500,
       "createdAt": "2022-10-26T12:10:27.530Z"
+    },
+    {
+      "category": "Estudos",
+      "description": "Curso Udemy",
+      "price": 110,
+      "type": "outcome",
+      "createdAt": "2022-10-27T18:35:44.802Z",
+      "id": 4
+    },
+    {
+      "category": "venda",
+      "description": "Desenlvimento de app",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2022-10-27T18:36:41.339Z",
+      "id": 5
+    },
+    {
+      "category": "Dirvesão",
+      "description": "Viagem para disney",
+      "price": 8000,
+      "type": "outcome",
+      "createdAt": "2022-10-27T18:41:09.594Z",
+      "id": 6
+    },
+    {
+      "category": "Alimentação",
+      "description": "Frutas",
+      "price": 25,
+      "type": "outcome",
+      "createdAt": "2022-10-27T19:09:08.367Z",
+      "id": 7
+    },
+    {
+      "category": "Salário",
+      "description": "Salário",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2022-10-27T19:09:47.740Z",
+      "id": 8
     }
   ]
 }
