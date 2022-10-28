@@ -63,6 +63,22 @@
       "type": "income",
       "createdAt": "2022-10-27T19:09:47.740Z",
       "id": 8
+    },
+    {
+      "category": "Estudos",
+      "description": "a",
+      "price": 3,
+      "type": "income",
+      "createdAt": "2022-10-28T01:03:20.027Z",
+      "id": 9
+    },
+    {
+      "category": "Estudos",
+      "description": "b",
+      "price": 3,
+      "type": "outcome",
+      "createdAt": "2022-10-28T01:03:31.897Z",
+      "id": 10
     }
   ]
 }
